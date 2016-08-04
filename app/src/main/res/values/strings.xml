@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Salty.PW</string>
+    <string name="hint_base_password">Base Password</string>
+    <string name="hint_salt_website_name">Salt (Website Name)</string>
+    <string name="clipboard_password_display">Password</string>
+    <string name="copy_message">Copied to clipboard.</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_reset">Reset Default</string>
+    <string name="menu_apply">Apply Change(s)</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hint_hash_character_set">Hash Character Set</string>
+    <string name="hint_hash_length">Hash Length</string>
+    <string name="error_charset">It cannot be empty.</string>
+    <string name="title_setting">Setting</string>
+    <string name="message_restore">All the settings will restore to default setting. Are you sure to continue?</string>
+    <string name="title_restore">Restore Default</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_apply">Apply Changes</string>
+    <string name="message_apply">You will not able to generate the same result at salty.pw if it is not default setting. Are you sure to continue?</string>
+    <string name="message_leave">Your setting have changed but it has not apply. Leaving will discard all your changes. Are you sure to continue?</string>
+    <string name="title_leave">Discard Changes</string>
+    <string name="menu_info">Info</string>
+    <string name="title_info">About</string>
+    <string name="message_info">This app is inspire by salty.pw.</string>
+    <string name="reset_button">Reset</string>
+    <string name="apply_button">Apply</string>
+    <string name="copy_fail_message">Fill in all the fields first.</string>
+</resources>
